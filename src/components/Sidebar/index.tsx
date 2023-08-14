@@ -10,7 +10,7 @@ import {
   Users,
 } from 'lucide-react'
 
-import * as Input from '@/components/Input'
+import * as Input from '@/components/Form/Input'
 import { Logo } from './Logo'
 import { NavItem } from './NaviItem'
 import { UsedSpaceWidget } from './UsedSpaceWidget'
